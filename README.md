@@ -1,2 +1,2 @@
-# error-404-page
-this is a basic error 404 page using html and css
+# A basic form made in html and css
+this is a basic  form using html and css
